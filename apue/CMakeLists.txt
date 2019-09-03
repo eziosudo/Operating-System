@@ -8,6 +8,8 @@ include_directories("${PROJECT_SOURCE_DIR}/apue.3e/include")
 include_directories("/Applications/Xcode10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include")
 
 add_subdirectory(chapter1)
+add_subdirectory(chapter8)
+add_subdirectory(chapter10)
 add_subdirectory(chapter11)
 
 
