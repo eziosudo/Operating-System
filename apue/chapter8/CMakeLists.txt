@@ -1,6 +1,0 @@
-add_executable(fig8_1 fig8_1.c)
-add_executable(fig8_3 fig8_3.c)
-add_executable(fig8_22 fig8_22.c)
-add_executable(fig8_30 fig8_30.c)
-add_executable(fig8_31 fig8_31.c)
-include_directories("/Applications/Xcode10.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include")
