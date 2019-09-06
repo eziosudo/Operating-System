@@ -1,4 +1,4 @@
-# Java线程学习(一) -- 从Java代码到JVM
+# Java线程学习(一) -- 从Java启动线程到JVM
 
 ## 环境
 #### 操作系统：MacOS Mojave (10.14.5)
